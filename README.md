@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 🔭 I’m currently devloping: https://github.com/tpadilla10117/crwn-clothing
 
 🌱 I’m currently learning: UX Design Professional Certificate => https://www.coursera.org/google-career-certificates
