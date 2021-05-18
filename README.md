@@ -1,4 +1,9 @@
-### Hi there 👋
+### "Hello There!" 
+# - General Kenobi, Epi. III Revenge of the Sith
+
+### About Me:
+
+My name is 
 
 ______________________________________________________________________________
 
