@@ -27,7 +27,7 @@ ______________________________________________________________________________
 
 
 ## Learning: 
-![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet) ![Redux](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet)
+![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet) ![Redux](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet) ![Figma](https://img.shields.io/badge/code-Figma-informational?style=flat&logo=Figma&logoColor=white&color=blueviolet)
 ______________________________________________________________________________
 
 ## Tools & Technologies:
