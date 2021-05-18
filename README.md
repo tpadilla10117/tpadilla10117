@@ -13,10 +13,11 @@ ______________________________________________________________________________
 ⚡ Fun fact: I like to rock out on 🎸 in my free-time
 ______________________________________________________________________________
 
-## Tech Stack
+## Tech Stack: 
 ![HTML](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blueviolet) ![CSS](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blueviolet) ![JavaScript](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blueviolet) ![React](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=blueviolet)  ![Node.js](https://img.shields.io/badge/code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=blueviolet) ![Express](https://img.shields.io/badge/code-Express-informational?style=flat&logo=Express&logoColor=white&color=blueviolet) ![MySQL](https://img.shields.io/badge/code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blueviolet) 
 
-## Learning: ![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet) ![Redux](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet)
+## Learning: 
+![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet) ![Redux](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet)
 ______________________________________________________________________________
 
 ## Tools & Technologies:
