@@ -1,10 +1,11 @@
+<!-- ![image]() -->
+
 # "Hello There!" 
 ###### - General Kenobi, Epi. III Revenge of the Sith
 
 # About Me:
 
-My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Full Stack UX Engineer with strong soft-skills and newly developed hard-skills in the NERP stack.  I also have a passion for front-end design and am actively completing the Google UX Design courses.![image](https://user-images.githubusercontent.com/63988427/118724051-012b3480-b7e3-11eb-828b-520b341f258c.png)
-
+My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Jack-of-All-Trades: "Master of None, though oftentimes better than a Master of One" type pursuing a career change into a Full Stack UX Engineer.  I have a passion for front-end design and am actively completing the Google UX Design Professional Certification to complement my hard-skills.  I am currently searching for entry-level roles / internships to foster my skills and to eventually assist the small-businesses within my communities!
 
 ______________________________________________________________________________
 
