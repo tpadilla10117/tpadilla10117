@@ -22,4 +22,7 @@ ______________________________________________________________________________
 
 ## Tools & Technologies:
 ![Git](https://img.shields.io/badge/tool-Git-informational?style=flat&logo=Git&logoColor=white&color=orange) ![GitHub](https://img.shields.io/badge/tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=orange) ![VisualStudioCode](https://img.shields.io/badge/tool-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=orange)  ![Heroku](https://img.shields.io/badge/tool-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=orange) ![Postman](https://img.shields.io/badge/tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=orange) 
+
+
+[![Trin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpadilla10117)](https://github.com/tpadilla10117/github-readme-stats)
    
