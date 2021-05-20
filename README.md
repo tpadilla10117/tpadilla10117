@@ -5,7 +5,7 @@
 
 # About Me:
 
-My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Jack-of-All-Trades: "Master of None, though oftentimes better than a Master of One" type pursuing a career change into a Full Stack UX Engineer.  I have a passion for front-end design and am actively completing the Google UX Design Professional Certification to complement my hard-skills.  I am currently searching for entry-level roles / internships to foster my skills and to eventually assist the small-businesses within my communities!
+My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Jack-of-All-Trades: "Master of None, though oftentimes better than a Master of One" type pursuing a career change to a Full Stack UX Engineer.  I have a passion for front-end design and am actively completing the Google UX Design Professional Certification to complement my hard-skills.  I am currently searching for entry-level roles / internships to foster my skills and to eventually assist the small-businesses within my communities!
 
 ______________________________________________________________________________
 
