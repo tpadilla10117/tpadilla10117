@@ -35,4 +35,8 @@ ______________________________________________________________________________
 
 
 [![Trin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpadilla10117)](https://github.com/tpadilla10117/github-readme-stats)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="t-p-101" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/t-p-101?trk=profile-badge">Trinidad Padilla</a></div>
+              
    
