@@ -9,7 +9,7 @@ My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Jack-of-All-Trad
 
 ______________________________________________________________________________
 
-🔭  I’m currently developing: https://github.com/tpadilla10117/crwn-clothing
+🔭  I’m currently developing: https://github.com/tpadilla10117/e-commerce_nodejs_template
 
 🌱  I’m currently learning: UX Design Professional Certificate => https://www.coursera.org/google-career-certificates
 
