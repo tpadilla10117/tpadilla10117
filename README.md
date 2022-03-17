@@ -1,4 +1,12 @@
-<!-- ![image]() -->
+<!-- Sample Image, need to create a gif: -->
+<!--- <p align="center">
+<img 
+     src='./Nicole Wallace.gif' 
+     alt='cute computer icon'
+     width='100%'
+     style='margin: 0 auto'
+/>
+</p> -->
 
 # "Hello There!" 
 ###### - General Kenobi, Epi. III Revenge of the Sith
