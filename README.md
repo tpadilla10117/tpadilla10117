@@ -13,7 +13,9 @@
 
 # About Me:
 
-My name is Trin Padilla, and I'm a San Francisco/Bay-Area based Jack-of-All-Trades: "Master of None, though oftentimes better than a Master of One" type pursuing a career change to a Full Stack UX Engineer.  I have a passion for front-end design and am actively completing the Google UX Design Professional Certification to complement my hard-skills.  I am currently searching for entry-level roles / internships to foster my skills and to eventually assist the small-businesses within my communities!
+My name is Trin Padilla, and I'm a San Francisco/Bay-Area based T-shaped Frontend Developer with a UX Design focus.  Over the last 3 years I have been developing full stack web applications and focusing on user experience design (UX).  I’m passionate about user-centered design, frontend development, and strive to develop consistent end-user experiences.  Currently I'm practicing these skillsets with a small agency of freelance developers & designers, called Digital Horizen.  Additionally, I bring over ten years of customer service and over two years of event management / consulting to my team - bridging the gaps between clientele, developers, and designers.
+
+Frequented Tech Stack & Tools:  JavaScript, TypeScript, Node.js, Next.js, React.js, Redux, SQL, PostgreSQL, Rest API, HTML, CSS, SCSS, Git, Github, Jest, Figma
 
 ______________________________________________________________________________
 
